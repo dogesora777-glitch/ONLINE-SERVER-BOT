@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "DSsora.aternos.me:64453",
-    "port": 66453,
+    "port": 64453,
     "version": "26.1.2",
     "try-creative": false
   },
