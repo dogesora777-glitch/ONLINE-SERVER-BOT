@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DSsora.aternos.me:64453",
+    "ip": "DSsora.aternos.me",
     "port": 64453,
     "version": "",
     "try-creative": false
